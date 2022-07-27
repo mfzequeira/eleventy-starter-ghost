@@ -57,6 +57,8 @@ You can disable the default Ghost Handlebars Theme front-end by enabling the `Ma
 yarn build
 ```
 
+some text
+
 # Copyright & License
 
 Copyright (c) 2013-2022 Ghost Foundation - Released under the [MIT license](LICENSE).
